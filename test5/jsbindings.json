@@ -1,0 +1,16 @@
+{
+    "env": {
+        "syscall/js.valueLength": "dummy_valueLength",
+        "syscall/js.valueCall": "dummy_valueCall",
+        "syscall/js.valueIndex": "dummy_valueIndex",
+        "syscall/js.valueGet": "dummy_valueGet",
+        "syscall/js.valueNew": "dummy_valueNew",
+        "syscall/js.valueSet": "dummy_valueSet",
+        "syscall/js.valueSetIndex": "dummy_valueSetIndex",
+        "syscall/js.stringVal": "dummy_stringVal",
+        "syscall/js.valuePrepareString": "dummy_valuePrepareString",
+        "syscall/js.valueLoadString": "dummy_valueLoadString",
+        "http::get": "http_get",
+        "http::body_chunk": "http_body_chunk"
+    }
+}
